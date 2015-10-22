@@ -3,7 +3,7 @@ date: 2015-10-18 15:59:26
 tags:
 ---
 
-The page https://www.staticgen.com/ list a number of static web site generators.
+The page https://www.staticgen.com/ lists a number of static web site generators.
 This is from Hexo which is highly starred.
 
 It was plain sailing to get this far.
